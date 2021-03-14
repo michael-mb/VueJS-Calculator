@@ -1,6 +1,6 @@
 = VueJS Calculator
 
-Simple Calculator done with VueJs. Useful for learning and mastering the basics.
+Simple Calculator done with VueJs. Useful for learning the basics.
 
 == Installation
 1. Clone this repository
